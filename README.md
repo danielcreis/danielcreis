@@ -2,7 +2,6 @@
 
 -👨‍💻 I program Front End.
 -📚 I am studying Front End, Back End and Data.
-
 <div align="center">
   <a href="https://github.com/danielcreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
