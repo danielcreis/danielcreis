@@ -1,7 +1,7 @@
 ## Hello World, I'm Daniel Reis
 
--👨‍💻 I program Front End.
--📚 I am studying Front End.
+-👨‍💻📚 I am a front end developer and passionate about technology, graduated in IT from Estácio. Currently I work with software development and study different cool things related to technology. :)
+
 <div align="center">
 <a href="https://github.com/danielcreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
