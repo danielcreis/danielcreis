@@ -1,6 +1,10 @@
 ## Hello World, I'm Daniel Reis
 
--👨‍💻📚 I am a front end developer and passionate about technology, graduated in IT from Estácio. Currently I work with software development and study different cool things related to technology. :)
+-👨‍💻📚 Sou um desenvolvedor front-end apaixonado por tecnologia, com formação em Tecnologia da Informação pela Estácio. Atualmente, me dedico ao desenvolvimento de software e estudo uma ampla gama de tópicos relacionados à tecnologia, sempre buscando expandir meus conhecimentos e habilidades. Minha paixão pela tecnologia e pelo aprendizado contínuo me motiva a me manter atualizado com as últimas tendências e inovações no setor. Além disso, tenho uma forte capacidade de resolução de problemas e uma excelente habilidade em trabalhar em equipe, o que me permite contribuir de forma significativa para projetos desafiadores.
+
+[EN]
+-👨‍💻📚 I am a passionate front-end developer with a background in Information Technology from Estácio. Currently, I am engaged in software development and studying a wide range of topics related to technology, always seeking to expand my knowledge and skills. My passion for technology and continuous learning drives me to stay updated with the latest trends and innovations in the industry. Additionally, I have a strong problem-solving ability and excellent teamwork skills, which enable me to make significant contributions to challenging projects.
+
 
 <div align="center">
 <a href="https://github.com/danielcreis">
